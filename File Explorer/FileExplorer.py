@@ -1,8 +1,7 @@
 # Python program to create  
 # a file explorer in Tkinter 
    
-# import all components 
-# from the tkinter library 
+# import tkinter library 
 from tkinter import *
 #from tkinter.ttk import *
 #from time import strftime
