@@ -2,6 +2,6 @@ name = "Zac Bagley"
 
 name = 'Zac Bagley'
 
-exampleLine = 'I dont know what I am doing "But here goes nothin" '
+exampleLine = 'Want a quote in a line? "This is in double quotes :D" '
 
-anotherExample = 'Let\'s figure this out.'
+anotherExample = 'Let\'s use an apostrophe.'
